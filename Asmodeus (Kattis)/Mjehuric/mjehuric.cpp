@@ -31,5 +31,5 @@ int main(void){
         cin >> arr[i];
     }
     bubble(arr, n);
-    return 0;
+    return 0;.
 }
