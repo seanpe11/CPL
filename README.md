@@ -1,4 +1,4 @@
-#Competitive Programming Repo
+# Competitive Programming Repo
 
 Make sure you keep this updated Sean (note to self).
 
