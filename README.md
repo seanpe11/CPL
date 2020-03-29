@@ -1,1 +1,5 @@
-This is your CPL repo. Contests will be in their own directories, the rest can be anywhere.
+#Competitive Programming Repo
+
+Make sure you keep this updated Sean (note to self).
+
+Practice Sets are labeled, keep comprehensive programming notes for each contest/solution.
